@@ -1,1 +1,4 @@
-# FactionsUnlimited-Core v1.0 Beta
+Forked From https://github.com/DroidPlaysM/FactionsUnlimited-Core
+
+Redevelopment done by SourSmirnoff 
+www.twitter.com/SourServers
